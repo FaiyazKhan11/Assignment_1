@@ -1,0 +1,4 @@
+10,Mohammad Faiyaz Khan,2016331011,true,false,true,95.0,2,0,1,3,95.0,1
+9,Golap Hossain,2016331002,true,true,true,0.0,0,0,0,0,0.0,0
+8,Shifath Rahman,2016331001,false,false,true,0.0,0,0,0,0,0.0,0
+9,Ekramul Islam,2016331003,true,true,false,0.0,0,0,0,0,0.0,0
